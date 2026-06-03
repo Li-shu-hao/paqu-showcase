@@ -994,6 +994,8 @@ function render(filter='all'){
   document.querySelectorAll('.filters button').forEach(b=>b.classList.toggle('on',b.dataset.cat===filter));
 }
 render();
+
+document.querySelectorAll('.filters button').forEach(b=>b.addEventListener('click',()=>render(b.dataset.cat)));
 </script>
 </body>
 </html>
