@@ -41,9 +41,9 @@ image19.png | 犀牛頭雕像 | fantasy | 25.5*20*39
 image20.png | 猩猩頭雕像 | fantasy | 37.5*23.5*25
 image21.png | 狼頭雕像 | fantasy | 28*24*38
 image22.jpeg | 摩艾巨人 | decor | 23*23*43
-image23.jpeg | 魷魚餐盤 | decor | 29*20.5*9.5
+image23.png | 魷魚餐盤 | decor | 29*20.5*9.5
 image24.png | 电镀银骷髅桌 | decor | 56.5*54.5*51.5
-image25.png | 鳳梨茶几 | decor | 54.5*54.5*51.5
+image25.jpeg | 鳳梨茶几 | decor | 54.5*54.5*51.5
 image26.jpeg | 樹懶茶几 | decor | 23*25*35.5
 image27.jpeg | 獅子茶几 | decor | 25*22*34.5
 image28.jpeg | 雪狼茶几 | decor | 35*33*52
@@ -53,22 +53,22 @@ image31.jpeg | 仙人掌茶几（綠） | decor | 32*32*52
 image32.jpeg | 仙人掌茶几（棕） | decor | 32
 image33.jpeg | 蜥蜴掛雕像 | reptile | 40.5*47*37CM
 image34.jpeg | 美洲獅 | wild | 56*13*22cm
-image35.jpeg | 金錢豹 | wild | 108*27*65.5
+image35.png | 金錢豹 | wild | 108*27*65.5
 image36.png | 老虎 | wild | 46*16.5*29
-image37.png | 白虎 | wild | 46*16.5*29
+image37.jpeg | 白虎 | wild | 46*16.5*29
 image38.jpeg | 河馬 | wild | 50.0*21.0*26.0
-image39.jpeg | 黑鹿頭雕像 | fantasy | 65*38*65CM
+image39.png | 黑鹿頭雕像 | fantasy | 65*38*65CM
 image40.jpeg | 行走紅毛猩猩 | wild | 55*35.5*45.5
 image41.jpeg | 小紅毛猩猩 | wild | 15*12*13
-image42.jpeg | 擬真鱷魚 | reptile | 83*25*24
+image42.png | 擬真鱷魚 | reptile | 83*25*24
 image43.png | 暴龍掛件 | dinosaur | 31.5*17*35
-image44.png | 迅猛龍 | dinosaur | 27*15*24
+image44.jpeg | 迅猛龍 | dinosaur | 27*15*24
 image45.jpeg | 鯊魚頭 | reptile | 23*16*22
-image46.jpeg | 野牛 | wild | 22.5*9.5*18.5
+image46.png | 野牛 | wild | 22.5*9.5*18.5
 image47.png | 澳洲魔蜥 | reptile | 38.5*16*15.5
-image48.png | 大熊貓 | cat | 30*12*16
-image49.jpeg | 小熊貓 | cat | 21*10*12
-image50.jpg | 熊貓父子 | cat | 22.5*19*25.5CM
+image48.jpeg | 大熊貓 | cat | 30*12*16
+image49.jpg | 小熊貓 | cat | 21*10*12
+image50.jpeg | 熊貓父子 | cat | 22.5*19*25.5CM
 image51.jpeg | 荷蘭豬 | wild | 20*13.5*11.5CM
 image52.jpeg | 貓鼬 | cat | 14*11.5*40.5CM
 image53.jpeg | 貓鼬一家 | cat | 22.0*14.0*39.0
@@ -81,17 +81,17 @@ image59.jpeg | 小狗 | dog | 19.5*14.5*22CM
 image60.jpeg | 小狗 | dog | 15*11.5*16CM
 image61.jpeg | 小狗 | dog | 13.5*11*15
 image62.jpeg | 小狗 | dog | 13.5*11*15
-image63.jpeg | 小狗 | dog | 14*11*16
-image64.png | 小狗 | dog | 13*12*14
-image65.jpeg | 臘腸 | wild | 30.5*11.5*20.5
+image63.png | 小狗 | dog | 14*11*16
+image64.jpeg | 小狗 | dog | 13*12*14
+image65.png | 臘腸 | wild | 30.5*11.5*20.5
 image66.png | 西高地 | dog | 29.5*12.5*26.5
 image67.png | 金毛 | dog | 44*23*26.5
-image68.png | 格斗犬 | dog | 38*17*20
+image68.jpeg | 格斗犬 | dog | 38*17*20
 image69.png | 小狗 | dog | 30.5*13.5*8.5
-image70.jpeg | 小狗 | dog | 42.5*19.5*12
-image71.png | 橘貓 | cat | 34.5*19.5*18
+image70.png | 小狗 | dog | 42.5*19.5*12
+image71.jpeg | 橘貓 | cat | 34.5*19.5*18
 image72.png | 貓 | cat | 16.5*11.5*20.5
-image73.jpeg | 貓 | cat | 27*21.5*11
+image73.png | 貓 | cat | 27*21.5*11
 image74.png | 貓 | cat | 21*18*9.5
 image75.png | 貓 | cat | 29.5*11*16.5
 image76.png | 貓 | cat | 29.5*11*16.5
@@ -116,8 +116,8 @@ image94.png | 植絨鱷魚 | reptile | 13.5*7.5*16.3
 image95.png | 植絨蛇 | reptile | 17*5.8*14
 image96.png | 植絨犀牛 | decor | 17*5.8*14
 image97.png | 異形頭骨 | fantasy | 70*13*26
-image98.png | 大號鹿頭 | fantasy | 
-image99.png | Q版麒麟 | fantasy | 10*5*2
+image98.jpeg | 大號鹿頭 | fantasy | 
+image99.jpeg | Q版麒麟 | fantasy | 10*5*2
 image100.jpeg | 白黃猩猩頭雕 | wild | 
 image101.jpeg | 紅毛猩猩 | wild | 22*20*27cm
 image102.jpeg | 印第安擺件 | wild | 18*16*23cm
@@ -126,15 +126,15 @@ image104.jpeg | 大象模型 | wild |
 image105.jpeg | 黃白兔子 | wild | 
 image106.jpeg | 斑馬 | wild | 
 image107.jpeg | 加拉巴戈斯模型 | wild | 
-image108.jpeg | Q版陸龜 | reptile | 
+image108.png | Q版陸龜 | reptile | 
 image109.jpeg | Q版亞達 | wild | 
-image110.png | 鱷龜頭雕 | reptile | 
+image110.jpeg | 鱷龜頭雕 | reptile | 
 image111.jpeg | 銅亞達模型 | wild | 
 image112.jpeg | 陸龜冰箱貼 | reptile | 
 image113.jpeg | 亞達陸龜 | reptile | 
 image114.jpeg | 摩艾巨人 | fantasy | 
-image115.jpeg | 袋鼠 | wild | 
-image116.jpeg | 哥特龍茶几 | dinosaur | 
+image115.png | 袋鼠 | wild | 
+image116.png | 哥特龍茶几 | dinosaur | 
 image117.png | 哥特龍邊幾 | dinosaur | 
 image118.png | 金龍香爐 | decor | 
 image119.png | 招財金龍魚 | wild | 
