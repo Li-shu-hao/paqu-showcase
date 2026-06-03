@@ -17,7 +17,7 @@
   3. 照片放進 assets 資料夾
   4. 存檔後跟我說「更新商品」
 
---- 以下為目前 129 款商品 ---
+--- 以下為目前 130 款商品 ---
 
 image1.png | 孔雀頭 | wild | 26x16x68cm
 image2.png | 死神 | fantasy | 11x10x20cm
@@ -40,111 +40,112 @@ image18.jpeg | 暴龍雕像 | dinosaur | 51*29*37
 image19.png | 犀牛頭雕像 | fantasy | 25.5*20*39
 image20.png | 猩猩頭雕像 | fantasy | 37.5*23.5*25
 image21.png | 狼頭雕像 | fantasy | 28*24*38
-image22.jpeg | 魷魚餐盤 | decor | 29*20.5*9.5
-image23.png | 电镀银骷髅桌 | decor | 56.5*54.5*51.5
-image24.png | 鳳梨茶几 | decor | 54.5*54.5*51.5
-image25.jpeg | 樹懶茶几 | decor | 23*25*35.5
-image26.jpeg | 獅子茶几 | decor | 25*22*34.5
-image27.jpeg | 雪狼茶几 | decor | 35*33*52
-image28.jpeg | 貓頭鷹茶几 | bird | 35*33*52
-image29.jpeg | 考拉茶几 | decor | 35x34x51.5cm
-image30.jpeg | 仙人掌茶几（綠） | decor | 32*32*52
-image31.jpeg | 仙人掌茶几（棕） | decor | 32
-image32.jpeg | 蜥蜴掛雕像 | reptile | 40.5*47*37CM
-image33.jpeg | 美洲獅 | wild | 56*13*22cm
-image34.jpeg | 金錢豹 | wild | 108*27*65.5
-image35.png | 老虎 | wild | 46*16.5*29
-image36.png | 白虎 | wild | 46*16.5*29
-image37.jpeg | 河馬 | wild | 50.0*21.0*26.0
-image38.jpeg | 黑鹿頭雕像 | fantasy | 65*38*65CM
-image39.jpeg | 行走紅毛猩猩 | wild | 55*35.5*45.5
-image40.jpeg | 小紅毛猩猩 | wild | 15*12*13
-image41.jpeg | 擬真鱷魚 | reptile | 83*25*24
-image42.png | 暴龍掛件 | dinosaur | 31.5*17*35
-image43.png | 迅猛龍 | dinosaur | 27*15*24
-image44.jpeg | 鯊魚頭 | reptile | 23*16*22
-image45.jpeg | 野牛 | wild | 22.5*9.5*18.5
-image46.png | 澳洲魔蜥 | reptile | 38.5*16*15.5
-image47.png | 大熊貓 | cat | 30*12*16
-image48.jpeg | 小熊貓 | cat | 21*10*12
-image49.jpg | 熊貓父子 | cat | 22.5*19*25.5CM
-image50.jpeg | 荷蘭豬 | wild | 20*13.5*11.5CM
-image51.jpeg | 貓鼬 | cat | 14*11.5*40.5CM
-image52.jpeg | 貓鼬一家 | cat | 22.0*14.0*39.0
-image53.jpeg | 棕貓頭鷹 | bird | 12*9.5*12.5CM
-image54.jpeg | 白貓頭鷹 | bird | 12*9.5*12.5CM
-image55.jpeg | 棕貓頭鷹 | bird | 20.5*10.5*14CM
-image56.jpeg | 白貓頭鷹 | bird | 20.5*10.5*14CM
-image57.jpeg | 雪鸮 | wild | 23*15*34.5CM
-image58.jpeg | 小狗 | dog | 19.5*14.5*22CM
-image59.jpeg | 小狗 | dog | 15*11.5*16CM
-image60.jpeg | 小狗 | dog | 13.5*11*15
+image22.jpeg | 摩艾巨人 | decor | 23*23*43
+image23.jpeg | 魷魚餐盤 | decor | 29*20.5*9.5
+image24.png | 电镀银骷髅桌 | decor | 56.5*54.5*51.5
+image25.png | 鳳梨茶几 | decor | 54.5*54.5*51.5
+image26.jpeg | 樹懶茶几 | decor | 23*25*35.5
+image27.jpeg | 獅子茶几 | decor | 25*22*34.5
+image28.jpeg | 雪狼茶几 | decor | 35*33*52
+image29.jpeg | 貓頭鷹茶几 | bird | 35*33*52
+image30.jpeg | 考拉茶几 | decor | 35x34x51.5cm
+image31.jpeg | 仙人掌茶几（綠） | decor | 32*32*52
+image32.jpeg | 仙人掌茶几（棕） | decor | 32
+image33.jpeg | 蜥蜴掛雕像 | reptile | 40.5*47*37CM
+image34.jpeg | 美洲獅 | wild | 56*13*22cm
+image35.jpeg | 金錢豹 | wild | 108*27*65.5
+image36.png | 老虎 | wild | 46*16.5*29
+image37.png | 白虎 | wild | 46*16.5*29
+image38.jpeg | 河馬 | wild | 50.0*21.0*26.0
+image39.jpeg | 黑鹿頭雕像 | fantasy | 65*38*65CM
+image40.jpeg | 行走紅毛猩猩 | wild | 55*35.5*45.5
+image41.jpeg | 小紅毛猩猩 | wild | 15*12*13
+image42.jpeg | 擬真鱷魚 | reptile | 83*25*24
+image43.png | 暴龍掛件 | dinosaur | 31.5*17*35
+image44.png | 迅猛龍 | dinosaur | 27*15*24
+image45.jpeg | 鯊魚頭 | reptile | 23*16*22
+image46.jpeg | 野牛 | wild | 22.5*9.5*18.5
+image47.png | 澳洲魔蜥 | reptile | 38.5*16*15.5
+image48.png | 大熊貓 | cat | 30*12*16
+image49.jpeg | 小熊貓 | cat | 21*10*12
+image50.jpg | 熊貓父子 | cat | 22.5*19*25.5CM
+image51.jpeg | 荷蘭豬 | wild | 20*13.5*11.5CM
+image52.jpeg | 貓鼬 | cat | 14*11.5*40.5CM
+image53.jpeg | 貓鼬一家 | cat | 22.0*14.0*39.0
+image54.jpeg | 棕貓頭鷹 | bird | 12*9.5*12.5CM
+image55.jpeg | 白貓頭鷹 | bird | 12*9.5*12.5CM
+image56.jpeg | 棕貓頭鷹 | bird | 20.5*10.5*14CM
+image57.jpeg | 白貓頭鷹 | bird | 20.5*10.5*14CM
+image58.jpeg | 雪鸮 | wild | 23*15*34.5CM
+image59.jpeg | 小狗 | dog | 19.5*14.5*22CM
+image60.jpeg | 小狗 | dog | 15*11.5*16CM
 image61.jpeg | 小狗 | dog | 13.5*11*15
-image62.jpeg | 小狗 | dog | 14*11*16
-image63.png | 小狗 | dog | 13*12*14
-image64.jpeg | 臘腸 | wild | 30.5*11.5*20.5
-image65.png | 小狗 | dog | 29.5*12.5*26.5
-image66.png | 小狗 | dog | 44*23*26.5
-image67.png | 小狗 | dog | 30.5*13.5*8.5
-image68.jpeg | 小狗 | dog | 42.5*19.5*12
-image69.png | 橘貓 | cat | 34.5*19.5*18
-image70.png | 貓 | cat | 16.5*11.5*20.5
-image71.jpeg | 貓 | cat | 27*21.5*11
-image72.png | 貓 | cat | 21*18*9.5
-image73.png | 貓 | cat | 29.5*11*16.5
-image74.png | 貓 | cat | 29.5*11*16.5
-image75.png | 貓 | cat | 21.5*13.5*13.5
-image76.png | 貓 | cat | 21.5*13.5*13.5
-image77.png | 貓狗指示牌 | cat | 14*13*22.5
-image78.png | 黑熊指示牌 | decor | 14.5*14*21.5
-image79.png | 刺猬 | wild | 20.5*13.5*23.5
-image80.png | 牛頭（大） | wild | 43.5*15*42.5
-image81.png | 牛頭（小） | wild | 30*11*28
-image82.png | 牛頭（帶底座） | wild | 31.5*12*45
-image83.png | 白兔 | wild | 20*13*13.5
-image84.png | 灰兔 | wild | 18*13*16.5
-image85.png | 羊 | wild | 46.5*15.5*36
-image86.png | 植絨棕熊 | decor | 19.2*22.2*31.5
-image87.png | 植絨綠猩猩 | decor | 43.5*17*15.5
-image88.png | 植絨猩猩 | decor | 19*12*37
-image89.png | 猴子 | wild | 9*7.5*16.3
-image90.png | 猴子 | wild | 8.5*6*13.2
-image91.png | 植絨野豬 | decor | 7*9.5*15.3
-image92.png | 植絨鱷魚 | reptile | 13.5*7.5*16.3
-image93.png | 植絨蛇 | reptile | 17*5.8*14
-image94.png | 植絨犀牛 | decor | 17*5.8*14
-image95.png | 異形頭骨 | fantasy | 
-image96.png | 大號鹿頭 | fantasy | 
-image97.png | Q版麒麟 | fantasy | 
-image99.jpeg | 紅毛猩猩 | wild | 22*20*27cm
-image100.jpeg | 印第安擺件 | wild | 18*16*23cm
-image101.jpeg | 母子黑猩猩 | wild | 20*20*28cm
-image102.jpeg | 大象模型 | wild | 
-image103.jpeg | 黃白兔子 | wild | 
-image104.jpeg | 斑馬 | wild | 
-image105.jpeg | 加拉巴戈斯模型 | wild | 
-image106.jpeg | Q版陸龜 | reptile | 
-image107.jpeg | Q版亞達 | wild | 
-image108.png | 鱷龜頭雕 | reptile | 
-image109.jpeg | 銅亞達模型 | wild | 
-image110.jpeg | 陸龜冰箱貼 | reptile | 
-image111.jpeg | 亞達陸龜 | reptile | 
-image112.jpeg | 摩艾巨人 | fantasy | 
-image113.jpeg | 袋鼠 | wild | 
-image114.jpeg | 哥特龍茶几 | dinosaur | 
-image115.png | 哥特龍邊幾 | dinosaur | 
-image116.png | 金龍香爐 | decor | 
-image117.png | 招財金龍魚 | wild | 
-image118.png | 犀牛 | wild | 
-image119.png | 棕熊 | wild | 
-image120.png | 印度角犀 | wild | 
-image121.png | 鯨頭鸛大嘴鳥 | bird | 
-image122.png | 古銅色金剛 | fantasy | 
-image123.png | 黑白斑馬 | wild | 
-image124.png | 彩色斑馬 | wild | 
-image125.png | 亞洲象模型 | wild | 
-image126.png | 1/6虎頭 | wild | 
-image127.png | 白馬 | wild | 
-image128.png | 棕馬 | wild | 
-image129.png | 商品129 | all | image129.png
-image130.png | 商品130 | all | image130.png
+image62.jpeg | 小狗 | dog | 13.5*11*15
+image63.jpeg | 小狗 | dog | 14*11*16
+image64.png | 小狗 | dog | 13*12*14
+image65.jpeg | 臘腸 | wild | 30.5*11.5*20.5
+image66.png | 西高地 | dog | 29.5*12.5*26.5
+image67.png | 金毛 | dog | 44*23*26.5
+image68.png | 格斗犬 | dog | 38*17*20
+image69.png | 小狗 | dog | 30.5*13.5*8.5
+image70.jpeg | 小狗 | dog | 42.5*19.5*12
+image71.png | 橘貓 | cat | 34.5*19.5*18
+image72.png | 貓 | cat | 16.5*11.5*20.5
+image73.jpeg | 貓 | cat | 27*21.5*11
+image74.png | 貓 | cat | 21*18*9.5
+image75.png | 貓 | cat | 29.5*11*16.5
+image76.png | 貓 | cat | 29.5*11*16.5
+image77.png | 貓 | cat | 21.5*13.5*13.5
+image78.png | 貓 | cat | 21.5*13.5*13.5
+image79.png | 貓狗指示牌 | cat | 14*13*22.5
+image80.png | 黑熊指示牌 | decor | 14.5*14*21.5
+image81.png | 刺猬 | wild | 20.5*13.5*23.5
+image82.png | 牛頭（大） | wild | 43.5*15*42.5
+image83.png | 牛頭（小） | wild | 30*11*28
+image84.png | 牛頭（帶底座） | wild | 31.5*12*45
+image85.png | 白兔 | wild | 20*13*13.5
+image86.png | 灰兔 | wild | 18*13*16.5
+image87.png | 羊 | wild | 46.5*15.5*36
+image88.png | 植絨棕熊 | decor | 19.2*22.2*31.5
+image89.png | 植絨綠猩猩 | decor | 43.5*17*15.5
+image90.png | 植絨猩猩 | decor | 19*12*37
+image91.png | 猴子 | wild | 9*7.5*16.3
+image92.png | 猴子 | wild | 8.5*6*13.2
+image93.png | 植絨野豬 | decor | 7*9.5*15.3
+image94.png | 植絨鱷魚 | reptile | 13.5*7.5*16.3
+image95.png | 植絨蛇 | reptile | 17*5.8*14
+image96.png | 植絨犀牛 | decor | 17*5.8*14
+image97.png | 異形頭骨 | fantasy | 70*13*26
+image98.png | 大號鹿頭 | fantasy | 
+image99.png | Q版麒麟 | fantasy | 10*5*2
+image100.jpeg | 白黃猩猩頭雕 | wild | 
+image101.jpeg | 紅毛猩猩 | wild | 22*20*27cm
+image102.jpeg | 印第安擺件 | wild | 18*16*23cm
+image103.jpeg | 母子黑猩猩 | wild | 20*20*28cm
+image104.jpeg | 大象模型 | wild | 
+image105.jpeg | 黃白兔子 | wild | 
+image106.jpeg | 斑馬 | wild | 
+image107.jpeg | 加拉巴戈斯模型 | wild | 
+image108.jpeg | Q版陸龜 | reptile | 
+image109.jpeg | Q版亞達 | wild | 
+image110.png | 鱷龜頭雕 | reptile | 
+image111.jpeg | 銅亞達模型 | wild | 
+image112.jpeg | 陸龜冰箱貼 | reptile | 
+image113.jpeg | 亞達陸龜 | reptile | 
+image114.jpeg | 摩艾巨人 | fantasy | 
+image115.jpeg | 袋鼠 | wild | 
+image116.jpeg | 哥特龍茶几 | dinosaur | 
+image117.png | 哥特龍邊幾 | dinosaur | 
+image118.png | 金龍香爐 | decor | 
+image119.png | 招財金龍魚 | wild | 
+image120.png | 犀牛 | wild | 
+image121.png | 棕熊 | wild | 
+image122.png | 印度角犀 | wild | 
+image123.png | 鯨頭鸛大嘴鳥 | bird | 
+image124.png | 古銅色金剛 | fantasy | 
+image125.png | 黑白斑馬 | wild | 
+image126.png | 彩色斑馬 | wild | 
+image127.png | 亞洲象模型 | wild | 
+image128.png | 1/6虎頭 | wild | 
+image129.png | 白馬 | wild | 34*10*31
+image130.png | 棕馬 | wild | 34*10*31
